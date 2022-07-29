@@ -8,6 +8,8 @@
 
 <h1 align="center"> ÖNEMLİ! Arkadaşlar kolay bir testnet olmayacak, kurmanız belki 2 belki 3 günü olacak, çok büyük bir ricamdır sabırlı olmanız, bu flood vs. silindi tekrar yazdım, ricamdır sabırlı olmanız ve stratos türkiye grubunun sabitli mesajlarını ara ara bakmanız, tek isteğim :heart: </h1>
 
+# SDS kurmak için validator oluşturmanız gerekmez ve stratos validatoru ile aynı yere kurabilirsiniz.
+
 ## Sistem gereksinimleri:
 
 
