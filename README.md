@@ -114,7 +114,7 @@ nano $HOME/rsnode/configs/config.toml
 
 ### Version kısmı görselde ki gibi olacak, değilse değişirsiniz zaten:
 
-![image](https://user-images.githubusercontent.com/101149671/181833922-8f7c212b-1d7e-4a1d-bbdf-51e97f46f725.png)
+![image](https://user-images.githubusercontent.com/101149671/181843350-04bc5ca3-9ef6-4f90-897e-ba85f18bd7be.png)
 
 ### Son olarak [[sp_list]] 'inizde sadece 1 tane liste olacak, benim altta verdiklerimi ekleyin görselde ki gibi olacak.
 
