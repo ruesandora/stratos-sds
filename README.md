@@ -223,7 +223,7 @@ registerpeer
 * Bu komutu girdikten sonra uzun bir süre (veya kısa) bekleyip true çıktısı almalısınız
 
 ```
-activate 10000000000 10000 1000000
+activate 9000000000 10000 1000000
 ```
 
 ### Node durumuna bakaım:
