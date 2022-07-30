@@ -81,6 +81,7 @@ make install
 * 5- bip39 sorusunu sadece enter diyelim (eski stratos cüzdanınız varsa 12 kelımesını girebilirsiniz)
 * 6- Tekrar enter
 * 7- Son olara Y (yes) diyerek bitiriyoruz.
+* 8- Y dedikten sonra mnemonic 24 kelime veriyor.
 
 ```
 cd $HOME
@@ -316,6 +317,26 @@ https://rest-tropos.thestratos.org/pot/rewards/wallet/st1jmxxzgy6jevnd3gpejyqr4m
 ```
 wallets
 ```
+
+## 24 kelimeleri (mnemonic) almak:
+
+* Komutu giriyoruz ilk başta
+
+* 1- Şifreyi girelim
+* 2- Şifreyi tekrar girelim
+* 3- Cüzdan adı
+* 4- Şifre tekrar
+* 5- bip39 sorusunu sadece enter diyelim
+* 6- Tekrar enter
+* 7- Son olara Y (yes) diyerek bitiriyoruz.
+* 8- Y dedikten sonra mnemonic 24 kelime veriyor.
+
+```
+newwallet
+```
+
+![image](https://user-images.githubusercontent.com/101149671/181919387-7c385af5-c173-4f85-bd42-69613f7ded89.png)
+
 
 ## Ozon almak için:
 ```
