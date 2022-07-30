@@ -309,6 +309,31 @@ chmod +x upload.sh
 https://rest-tropos.thestratos.org/pot/rewards/wallet/st1jmxxzgy6jevnd3gpejyqr4mvrfj8hqkh2p9yen
 ```
 
+<h1 align="center">Stratos SDS için yardımcı komutlar</h1>
+
+
+## Cüzdanı görmek:
+```
+wallets
+```
+
+## Ozon almak için:
+```
+prepay 500000000 10000 1000000
+```
+
+## Ozon miktarına bakmak için:
+```
+getoz CÜZDANADRESI
+```
+
+![image](https://user-images.githubusercontent.com/101149671/181904425-bfc156ab-d9ad-44be-93d9-37e91849bc9f.png)
+
+## Mining'in suspend/offline sorununu çözme 
+```
+updateStake 1000000000 10000 1000000 1
+```
+
 # Sorun yaşarsanız lütfen grupta [grup linki](https://t.me/StratosTurkish) arama kısmını kullanın ricamdır, çok yoğun ve yorgun dönemlerdeyim/dönemlerdeyiz.
 
 ![image](https://user-images.githubusercontent.com/101149671/181839812-e79667ee-d61e-4cd4-af05-8412fce5d97d.png)
